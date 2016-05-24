@@ -1,2 +1,4 @@
 # markov_chain
-Automated self-improvement chatbot
+##Using Markov Chain logic to emulate Emile, a self-improvement chat bot
+
+
